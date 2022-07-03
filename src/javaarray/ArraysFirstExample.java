@@ -1,12 +1,5 @@
 package javaarray;
 
-/*
-Learn Programming Academy's Java 1Z0-815 Certification Exam Course
-Section 5: Working with Java Arrays
-Topic:  Single Dimensional Array
-
-*/
-
 import java.util.Arrays;
 
 public class ArraysFirstExample {
@@ -85,11 +78,17 @@ public class ArraysFirstExample {
 
         // You can see both references show the data changes
         System.out.println("integerArray = " +
+
+
                 Arrays.toString(integerArray));
         System.out.println("integerArray2 = " +
                 Arrays.toString(integerArray2));
         System.out.println("intArray = " + Arrays.toString(intArray));
         System.out.println("intArray2 = " + Arrays.toString(intArray2));
-
+        int[] d, e, f[];
+        d = new int[6];
+        e = new int[7];
+        f = new int[5][6];
+        String[] stringArray[];
     }
 }
