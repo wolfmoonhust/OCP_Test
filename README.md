@@ -25,6 +25,10 @@ Method
     String and primitive data types will not have their changed when the method return to the calling scope
     if you are passing an object reference of any kind, a change will be reflected when the method return
     Constructor
+    Overloaded methods
+        difference return type or formal paramenter type
+        https://docs.oracle.com/javase/specs/jls/se11/html/jls-15.html#jls-15.12.2
+    static keyword: could access even though instance of class does not initialize
 
 Objects and classes
     variable and initializer are always executed in the same order they are declared but before any statements in a constructor
