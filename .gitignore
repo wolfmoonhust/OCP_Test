@@ -1,0 +1,43 @@
+# gradle setting
+.gradle/
+gradle*
+!gradle.properties
+ 
+# Android Studio
+.idea/
+*.iml
+.project
+.classpath
+.project.properties
+gen/
+tests/stress/gen/
+WallpaperPicker/gen/
+WallpaperPicker/.project.properties
+bin/
+local.properties
+
+# build output
+build/
+iconloaderlib/build/
+
+
+# galaxy plugin - sec \C6\FA\B4\F5\B4\C2 \C1\A6\BF\DC\C7ϵ\C7 com/sec \B0\A1 \B5\E9\BE\B4\C2 sec \C6\FA\B4\F5\B4\C2 \C3߰\A1
+sec/
+!**/com/sec/
+
+# Local setting file
+local.properties
+
+# DDMS capture folder
+captures/
+
+# DB
+db_files
+.DS_Store
+
+#galaxy
+.galaxy
+
+out/
+
+
