@@ -44,4 +44,6 @@ public class UnaryOperatorMore {
         System.out.println("myBoolean = " + myBoolean +
                 ", the opposite is = " + newBoolean);
     }
+
+    test 
 } 
