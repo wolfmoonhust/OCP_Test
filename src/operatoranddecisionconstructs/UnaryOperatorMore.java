@@ -45,5 +45,6 @@ public class UnaryOperatorMore {
                 ", the opposite is = " + newBoolean);
     }
 
-    test 
+
+    //removing error and add comment
 } 
